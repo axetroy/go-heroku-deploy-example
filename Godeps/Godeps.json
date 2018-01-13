@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/axetroy/go-heroku-deploy-example",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
